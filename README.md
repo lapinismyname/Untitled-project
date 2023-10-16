@@ -22,7 +22,7 @@ The project contains:
 ### Server
 
 <p float="left">
-  <img src="https://github.com/lapinismyname/Untitled-project/assets/92723777/95d4c3aa-8385-43eb-b936-a3cd6423b106" height="450px"/>
+  <img src="https://github.com/lapinismyname/Untitled-project/assets/92723777/95d4c3aa-8385-43eb-b936-a3cd6423b106" height="375px"/>
 </p>
 
 The server is a web-based user interface that displays a variety of data including the ambient temperature and humidity, the density of carbon monoxide, whether there is a fire (based on the the density of carbon monoxide), the carbon monoxide system’s state (whether it is on, off, or at sleep), the amount of water on the carboy scale, whether the motion sensor detected motion or not, and the previous alert records.
